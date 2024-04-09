@@ -1,0 +1,19 @@
+.punteros{
+    background-color: rgba(107, 78, 46, 0.829);
+}
+
+.fondo{
+    background: rgb(128, 101, 70);
+}
+
+.fondo_secundario{
+    background: rgba(107, 78, 46, 0.534);
+}
+
+.icono{
+    width: 2%;
+    height: 2%;
+
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
