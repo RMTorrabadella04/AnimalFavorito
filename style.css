@@ -1,6 +1,4 @@
-.punteros{
-    background-color: rgba(107, 78, 46, 0.829);
-}
+/* Fondo */
 
 .fondo{
     background: rgb(128, 101, 70);
@@ -10,10 +8,23 @@
     background: rgba(107, 78, 46, 0.534);
 }
 
+/* Carrusel */
+.punteros{
+    background-color: rgba(107, 78, 46, 0.829);
+}
+
+/* Icono del Menu */
+
 .icono{
     width: 2%;
     height: 2%;
 
     margin-left: 0.5%;
     margin-right: 0.5%;
+}
+
+/* Info */
+
+.texto_justificado{
+    text-align: justify;
 }
