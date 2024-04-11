@@ -28,3 +28,14 @@
 .texto_justificado{
     text-align: justify;
 }
+
+/* Margen negativo */ 
+.m_n{
+    margin-top: -10.5%;
+}
+
+/* Centrar Tabla */
+
+.centroTabla{
+    margin-left: 12.5%;
+}
