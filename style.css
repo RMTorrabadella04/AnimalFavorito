@@ -16,8 +16,8 @@
 /* Icono del Menu */
 
 .icono{
-    width: 2%;
-    height: 2%;
+    width: 3vh;
+    height: 3vh;
 
     margin-left: 0.5%;
     margin-right: 0.5%;
@@ -44,4 +44,10 @@
 .bordeTabla{
     border-color: black;
     background-color: rgba(161, 139, 114, 0.514);;
+}
+
+/* Centrar texto */
+
+.centroTexto{
+    text-align: center;
 }
